@@ -1,0 +1,8 @@
+GIT:
+* git init
+* git status
+* git config --global user.name "michal"
+* git config --global user.email steffan_17@wp.pl 
+* git add *
+* git commit -m "Startowy" //Comit lokalny
+* git push origin //Wypuchanie do repo github
