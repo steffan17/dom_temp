@@ -6,3 +6,7 @@ GIT:
 * git add *
 * git commit -m "Startowy" //Comit lokalny
 * git push origin //Wypuchanie do repo github
+
+GIT Instalacja MINT:
+
+*sudo apt install git-all
